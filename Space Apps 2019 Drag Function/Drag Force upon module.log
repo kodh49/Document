@@ -1,0 +1,394 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.3)  11 FEB 2020 19:12
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"Drag Force upon module.tex"
+(e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex
+LaTeX2e <2019-10-01> patch level 3
+(c:/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/10/25 v1.4k Standard LaTeX document class
+(c:/texlive/2019/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2019/10/25 v1.4k Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) (c:/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+) (e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.aux)
+\openout1 = `"Drag Force upon module.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 3.
+LaTeX Font Info:    ... okay on input line 3.
+
+Underfull \hbox (badness 10000) in paragraph at lines 5--7
+
+ []
+
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 8.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 8.
+
+Underfull \hbox (badness 10000) in paragraph at lines 10--12
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 15--17
+
+ []
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:18: Missing $ inserted.
+<inserted text> 
+                $
+l.18 ...er. Thus, $\rho$ is equal to $1000$ (kg/m^
+                                                  3): \newline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:19: Missing $ inserted.
+<inserted text> 
+                $
+l.19 \begin{center}
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:19: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.19 \begin{center}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 18--19
+
+ []
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:20: Missing $ inserted.
+<inserted text> 
+                $
+l.20     $\rho = 1,000$ (kg/m^
+                              3)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: LaTeX Error: Command \end{document} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: LaTeX Error: \begin{document} ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.21 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: Missing $ inserted.
+<inserted text> 
+                $
+l.21 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:21: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.21 \end{center}
+                 
+Things are pretty mixed up, but I think the worst is over.
+
+[1
+
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:56: Missing $ inserted.
+<inserted text> 
+                $
+l.56 ...r. Thus, $\rho$ is equal to $1.225$ (kg/m^
+                                                  3): \newline
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:57: Missing $ inserted.
+<inserted text> 
+                $
+l.57 \begin{center}
+                   
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:57: Missing } inserted.
+<inserted text> 
+                }
+l.57 \begin{center}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:57: Missing \endgroup inserted.
+<inserted text> 
+                \endgroup 
+l.57 \begin{center}
+                   
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:57: Extra }, or forgotten \endgroup.
+\par ...m \@noitemerr {\@@par }\fi \else {\@@par }
+                                                  \fi 
+l.57 \begin{center}
+                   
+I've deleted a group-closing symbol because it seems to be
+spurious, as in `$x}$'. But perhaps the } is legitimate and
+you forgot something else, as in `\hbox{$x}'. In such cases
+the way to recover is to insert both the forgotten and the
+deleted material, e.g., by typing `I$}'.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:58: Missing $ inserted.
+<inserted text> 
+                $
+l.58     $\rho = 1,000$ (kg/m^
+                              3)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:59: LaTeX Error: Command \end{flushleft} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:59: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:59: LaTeX Error: \begin{flushleft} on input line 54 ended by \end{center}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.59 \end{center}
+                 
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:59: Missing $ inserted.
+<inserted text> 
+                $
+l.59 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:66: Missing $ inserted.
+<inserted text> 
+                $
+l.66     $A=504.63$ (m^
+                       2)
+I've inserted a begin-math/end-math symbol since I think
+you left one out. Proceed, with fingers crossed.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:67: LaTeX Error: Command \end{center} invalid in math mode.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:67: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:67: LaTeX Error: Something's wrong--perhaps a missing \item.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.67 \end{center}
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:67: Missing $ inserted.
+<inserted text> 
+                $
+l.67 \end{center}
+                 
+I've inserted something that you may have forgotten.
+(See the <inserted text> above.)
+With luck, this will get me unwedged. But if you
+really didn't forget anything, try typing `2' now; then
+my insertion and my current dilemma will both disappear.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:76: LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.76 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:81: LaTeX Error: \begin{document} ended by \end{flushleft}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.81  \end{flushleft}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.tex:81: Extra \endgroup.
+<recently read> \endgroup 
+                          
+l.81  \end{flushleft}
+                     
+Things are pretty mixed up, but I think the worst is over.
+
+[2] (e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.aux) ) 
+Here is how much of TeX's memory you used:
+ 244 strings out of 492162
+ 3317 string characters out of 6129063
+ 67096 words of memory out of 5000000
+ 4691 multiletter control sequences out of 15000+600000
+ 4850 words of font info for 18 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 25i,4n,20p,367b,143s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb>
+Output written on "e:/Github/Document/Space Apps 2019 Drag Function/Drag Force upon module.pdf" (2 pages, 92943 bytes).
+PDF statistics:
+ 47 PDF objects out of 1000 (max. 8388607)
+ 33 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

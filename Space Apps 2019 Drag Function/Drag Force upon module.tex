@@ -1,0 +1,82 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+\begin{document}
+\section{Threshold force to stay against ocean current}
+Two devices --- gathering module and floating module --- are connected with the aluminium mesh. Since aluminium mesh has negligible surface area in contact with flowing water, we gain focus on considering the fluid resistance acted upon both floating module which floats over the surface.
+ Drag depends on the properties of the fluid and on the size, shape, and speed of the object. According to drag equation: \newline
+ \begin{center}
+     $F_D=$$\frac{1}{2}$$\rho v^2 C_D A$
+ \end{center}
+where $F_D$ is the drag force, $\rho$ is the density of the fluid, $v$ is the speed of the object relative to the fluid, $A$ is the cross sectional area, and $C_D$ is the drag coefficient. \newline
+However, to resist from the drag force, a vehicle should act upon a countering force against the ocean current. The amount of the force is equal to: \newline
+\begin{center}
+    $F_R=$$\frac{1}{2}$$\rho v^3 C_D A$
+\end{center}
+We chose one point from various coordinates where ocean current is accumulated a lot, which has a longitude of 155 and latitude of 10.
+To apply the drag equation to calculate the threshold force for the floating module to be set stationary. \newline
+\subsection{Gathering module}
+For the gathering module which is set below water, drag force is acted upon by water. Thus, $\rho$ is equal to $1000$ (kg/m^3): \newline
+\begin{center}
+    $\rho = 1,000$ (kg/m^3)
+\end{center}
+\begin{flushleft}
+According to the ocean current velocity data, the speed of ocean current in the selected region is $0.0478$ (m/s). Thus, $v$ is equal to $0.0478$ (m/s)
+\end{flushleft}
+\begin{center}
+    $v = 0.0478$ (m/s)
+\end{center}
+\begin{flushleft}
+Because the gathering module is in a cylindrical shape, the cross sectional area $A$ can be calculated by integrating following infinitesimal area.
+\newline\end{flushleft}
+\begin{center}
+    $S=\int_0^\pi \! $$\frac{(l_2r\mathrm{d}\theta+l_1\mathrm{d}\theta)(\sqrt{(l_1 l_2)^2+h^2}}{2}$$ \, \mathrm{d}\theta$
+\end{center}
+By integrating the formula, the final cross sectional area $A$ is equal to: \newline
+\begin{center}
+    $A=$$\frac{19\sqrt{5}}{2}$$\theta$
+\end{center}
+\begin{flushleft}
+Also, we approximated the drag coefficient to that of short cylinder since it has negligible radius changes between upper and lower side. Drag coefficient for a short cylinder is equal to:
+\end{flushleft}
+\begin{center}
+    $C_D=1.15$
+\end{center}
+\begin{flushleft}
+Therefore, by plugging into the countering-force equation: \newline
+\end{flushleft}
+\begin{center}
+    $F_R=$$\frac{1}{2}$$\rho v^3 C_D A=0.346$ (N)
+\end{center}
+\begin{flushleft}
+Because the amount of force created by ocean current upon the gathering module is small enough to neglect compared to its total weight of 106 (ton), gathering module does not necessarily need power module to pushed forward.
+\end{flushleft}
+
+\begin{flushleft}
+\subsection{Floating module}
+For the floating module which is set upon water, drag force is acted upon by wind, air. Thus, $\rho$ is equal to $1.225$ (kg/m^3): \newline
+\begin{center}
+    $\rho = 1,000$ (kg/m^3)
+\end{center}
+According to the wind velocity data, the speed of wind in the selected region is $8.704$ (m/s). Thus, $v$ is equal to $8.704$ (m/s)
+\begin{center}
+    $v = 8.704$ (m/s)
+\end{center}
+Unlike gathering module, the floating module is in a 105m long cylindrical shape, the cross sectional area $A$ can be calculated by integrating semicircle of a tube with the entire length of the tube. Thus, the final cross sectional area $A$ is equal to: \newline
+\begin{center}
+    $A=504.63$ (m^2)
+\end{center}
+Also, we approximated the drag coefficient to that of long cylinder since it has 105m long length compared to its 1.35m long radius. Drag coefficient for a long cylinder is equal to:
+\begin{center}
+    $C_D=0.82$
+\end{center}
+Therefore, by plugging into the countering-force equation: \newline
+\begin{center}
+    $F_R=$$\frac{1}{2}$$\rho v^3 C_D A=244577.810$ (N)
+\end{center}
+\newline
+\begin{flushleft}
+Because the floating module has 223 (ton) of total weight, it has to be accelerated by a rate of 1.097 ($m/s^2$). \newline
+This amount of electric power is provided by solar panels on the floating module. Since total amount of energy produced from the solar panel exceeds the threshold for the floating module to be stay stationary, the whole device can maintain mechanical equilibrium, without either being swept away by ocean current/wind or being capsized.
+\end{flushleft}
+ \end{flushleft}
+\end{document}
