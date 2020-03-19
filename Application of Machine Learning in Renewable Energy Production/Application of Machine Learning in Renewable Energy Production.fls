@@ -39,11 +39,35 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 OUTPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 INPUT c:/texlive/2019/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 INPUT c:/texlive/2019/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
+INPUT c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmba.tfm
@@ -141,7 +165,44 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msam5.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm10.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm7.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/amsfonts/symbols/msbm5.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbcc.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbac.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc9.tfm
+INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_1.png
+INPUT ./fig/Figure_1.png
+INPUT ./fig/Figure_1.png
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmca.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb3.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd1.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb6.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd4.tfm
+INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_2.png
+INPUT ./fig/Figure_2.PNG
+INPUT ./fig/Figure_2.PNG
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbbc.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc2.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbba.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb3.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd1.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb2.tfm
+INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_3.PNG
+INPUT ./fig/Figure_3.PNG
+INPUT ./fig/Figure_3.PNG
+INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_4.PNG
+INPUT ./fig/Figure_4.PNG
+INPUT ./fig/Figure_4.PNG
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbba.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc2.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb7.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb2.tfm
+INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_5.png
+INPUT ./fig/Figure_5.PNG
+INPUT ./fig/Figure_5.PNG
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
@@ -150,11 +211,24 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb
@@ -165,6 +239,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb
@@ -182,6 +257,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb
@@ -190,6 +266,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb

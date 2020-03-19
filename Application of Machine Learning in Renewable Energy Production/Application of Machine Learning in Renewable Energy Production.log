@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.3)  19 MAR 2020 21:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.3)  20 MAR 2020 00:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -154,60 +154,171 @@ LaTeX Info: Redefining \[ on input line 2858.
 LaTeX Info: Redefining \] on input line 2859.
 ) (c:/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks23
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2019/11/01 v1.3d Standard LaTeX Graphics (DPC,SPQR)
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+) (c:/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+ (c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen113
+\Gin@req@width=\dimen114
+) (c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen115
+\lightrulewidth=\dimen116
+\cmidrulewidth=\dimen117
+\belowrulesep=\dimen118
+\belowbottomsep=\dimen119
+\aboverulesep=\dimen120
+\abovetopsep=\dimen121
+\cmidrulesep=\dimen122
+\cmidrulekern=\dimen123
+\defaultaddspace=\dimen124
+\@cmidla=\count102
+\@cmidlb=\count103
+\@aboverulesep=\dimen125
+\@belowrulesep=\dimen126
+\@thisruleclass=\count104
+\@lastruleclass=\count105
+\@thisrulewidth=\dimen127
+) (c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
+Package: subfigure 2002/03/15 v2.1.5 subfigure package
+\subfigtopskip=\skip46
+\subfigcapskip=\skip47
+\subfigcaptopadj=\dimen128
+\subfigbottomskip=\skip48
+\subfigcapmargin=\dimen129
+\subfiglabelskip=\skip49
+\c@subfigure=\count106
+\c@lofdepth=\count107
+\c@subtable=\count108
+\c@lotdepth=\count109
+
+****************************************
+* Local config file subfigure.cfg used *
+****************************************
+(c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg)
+\subfig@top=\skip50
+\subfig@bottom=\skip51
 ) (e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux)
 \openout1 = `"Application of Machine Learning in Renewable Energy Production.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 6.
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 6.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 6.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 9.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 9.
  (c:/texlive/2019/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 6.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 11.
+LaTeX Font Info:    ... okay on input line 9.
+ (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count110
+\scratchdimen=\dimen130
+\scratchbox=\box29
+\nofMPsegments=\count111
+\nofMParguments=\count112
+\everyMPshowfont=\toks24
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen131
+\MPnumerator=\count114
+\makeMPintoPDFobject=\count115
+\everyMPtoPDFconversion=\toks25
+) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
+ (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
+))
+LaTeX Font Info:    Trying to load font information for U+msa on input line 14.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 11.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 14.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.tex:28: Undefined control sequence.
-l.28 Pr(Y=j | X=x_0)=\frac{1}{K}\sum_{i\inN
-                                           _0}I(y_i=j)
-The control sequence at the end of the top line
-of your error message was never \def'ed. If you have
-misspelled it (e.g., `\hobx'), type `I' and the correct
-spelling (e.g., `I\hbox'). Otherwise just continue,
-and I'll forget about whatever was undefined.
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
+Underfull \hbox (badness 10000) in paragraph at lines 40--41
 
-[2] [3] (e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux) ) 
+ []
+
+<./fig/Figure_1.png, id=59, 530.9436pt x 213.4374pt>
+File: ./fig/Figure_1.png Graphic file (type png)
+<use ./fig/Figure_1.png>
+Package pdftex.def Info: ./fig/Figure_1.png  used on input line 44.
+(pdftex.def)             Requested size: 265.47115pt x 106.71843pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3]
+<./fig/Figure_2.png, id=69, 593.21625pt x 526.96875pt>
+File: ./fig/Figure_2.png Graphic file (type png)
+<use ./fig/Figure_2.png>
+Package pdftex.def Info: ./fig/Figure_2.png  used on input line 56.
+(pdftex.def)             Requested size: 118.64114pt x 105.39188pt.
+
+Overfull \hbox (13.62296pt too wide) in paragraph at lines 63--86
+[][] 
+ []
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./fig/Figure_3.PNG, id=71, 475.7775pt x 416.30531pt>
+File: ./fig/Figure_3.PNG Graphic file (type png)
+<use ./fig/Figure_3.PNG>
+Package pdftex.def Info: ./fig/Figure_3.PNG  used on input line 91.
+(pdftex.def)             Requested size: 155.24895pt x 135.84392pt.
+<./fig/Figure_4.PNG, id=72, 484.81125pt x 420.82219pt>
+File: ./fig/Figure_4.PNG Graphic file (type png)
+<use ./fig/Figure_4.PNG>
+Package pdftex.def Info: ./fig/Figure_4.PNG  used on input line 92.
+(pdftex.def)             Requested size: 155.24895pt x 134.75574pt.
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[4 <./fig/Figure_1.png> <./fig/Figure_2.PNG>] [5 <./fig/Figure_3.PNG> <./fig/Figure_4.PNG>]
+<./fig/Figure_5.png, id=94, 488.57532pt x 362.85562pt>
+File: ./fig/Figure_5.png Graphic file (type png)
+<use ./fig/Figure_5.png>
+Package pdftex.def Info: ./fig/Figure_5.png  used on input line 109.
+(pdftex.def)             Requested size: 342.0004pt x 253.99721pt.
+ [6 <./fig/Figure_5.PNG>] (e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux) ) 
 Here is how much of TeX's memory you used:
- 1897 strings out of 492162
- 24275 string characters out of 6129063
- 88010 words of memory out of 5000000
- 6227 multiletter control sequences out of 15000+600000
- 28614 words of font info for 104 fonts, out of 8000000 for 9000
+ 2955 strings out of 492162
+ 38923 string characters out of 6129063
+ 109574 words of memory out of 5000000
+ 7219 multiletter control sequences out of 15000+600000
+ 34900 words of font info for 125 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,7n,31p,1700b,250s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
-Output written on "e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.pdf" (3 pages, 2025872 bytes).
+ 34i,9n,31p,1700b,276s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmca.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
+Output written on "e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.pdf" (6 pages, 2838551 bytes).
 PDF statistics:
- 219 PDF objects out of 1000 (max. 8388607)
- 161 compressed objects within 2 object streams
+ 308 PDF objects out of 1000 (max. 8388607)
+ 219 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
