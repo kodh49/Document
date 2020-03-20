@@ -36,7 +36,6 @@ Emil Isaksson과 Mikael Karpe Conde은 그들의 논문 Solar Power Forecasting 
 \subfigure[Example of a Deep ANN]{\includegraphics[width=0.3\textwidth]{./fig/Figure_1A.PNG}\hfill}
 \subfigure[Visualization of a neuron]{\includegraphics[width=0.4\textwidth]{./fig/Figure_1B.PNG}\hfill}
 \caption{Mechanism of Artificial Neural Network}
-\label{fig_1}
 \end{figure}
 
 입력층은 모델의 예측값을 도출하기 위한 시스템 외부로부터 독립 변수들을 입력받는 역할을 수행한다. 따라서 $n$개의 입력값을 받고자 한다면 입력층에 $n$개의 노드를 생성해야 한다. 다음으로 은닉층은 모든 입력 노드들로부터 독립 변수들의 입력값을 받아 각각의 노드에 존재하는 고유한 가중치를 적용한 합을 계산하고 이 값을 활성화 함수에 적용한다. 이제부터 뉴런과 파라미터를 동일하게 간주하고 전개하도록 하겠다.
@@ -45,7 +44,6 @@ Emil Isaksson과 Mikael Karpe Conde은 그들의 논문 Solar Power Forecasting 
 \centering
 \includegraphics[scale=0.3]{./fig/Figure_2.png}
 \caption{Simple ANN Model}
-\label{fig_2}
 \end{figure}
 
 위 Figure 2에서 입력층에 사용된 $X_i^n$은 훈련 데이터 집합의 $i$번째 데이터의 $n$번째 파라미터를 의미한다. 또한, 은닉층을 표현하는데 사용된 $Z_m^j$는 입력층을 통과하여 $j$번째 은닉층에 도달한 데이터의 $m$번째 변형된 파라미터를 의미한다. 최종적인 값을 표현하는 출력층의 $y_n$은 추정 데이터의 $n$번째 파라미터를 의미한다. 이를 바탕으로 입력층의 뉴런과 이웃한 은닉층의 뉴런 사이에 전달되는 가중치의 합을 다음과 같이 표현할 수 있다.
@@ -79,7 +77,6 @@ f(v)=max[v,0]
 \centering
 \includegraphics[scale=0.3]{./fig/Figure_3.png}
 \caption{Process of Cross Validation}
-\label{fig_1}
 \end{figure}
 
 아래 Figure 3에서 볼 수 있듯 총 5번의 훈련을 진행한다고 할 때, 각각의 훈련 단계(iteration)에서 훈련 데이터 집합을 5개의 부분집합으로 쪼개고 그 중 하나를 검증 데이터 집합으로 설정하여 알고리즘의 학습 상태를 점검하는 것을 알 수 있다. 연구에서 사용된 K-Fold Cross Validation 방법은 1개의 훈련 데이터 집합을 $K$개로 나누어 그 중 1개를 검증 데이터 집합으로, 나머지 $K-1$개를 훈련 데이터 집합으로 하여 모델을 학습시키는 것을 의미한다.
@@ -87,16 +84,15 @@ f(v)=max[v,0]
 
 
 \section{데이터}
-해당 연구에서는 모델을 훈련시키기 위해 다양한 형태의 기상 데이터들을 사용하였다. 연구가 스웨덴의 5개 지역에 대해 진행된 만큼 데이터 또한 각각의 지역에서 동일한 조건 아래 측정되었다. 우선, 2~3년에 걸쳐 측정한 파워 데이터는 고정된 태양광 PV 패널의 시간당 발전량을 kWh로 측정된 것이다. 이 데이터는 특정 기상 조건에서 실제 발전량을 나타내는 지표로 사용되었으며 모델의 추정값과 대조하여 그 오차를 줄이는 데 실질적으로 사용되었다.
+해당 연구에서는 모델을 훈련시키기 위해 다양한 형태의 기상 데이터들을 사용하였다. 연구가 스웨덴의 5개 지역에 대해 진행된 만큼 데이터 또한 각각의 지역에서 동일한 조건 아래 측정되었다. 우선, 2, 3년에 걸쳐 측정한 파워 데이터는 고정된 태양광 PV 패널의 시간당 발전량을 kWh로 측정한 것이다. 이 데이터는 특정 기상 조건에서 실제 발전량을 나타내는 지표로 사용되었으며 모델의 추정값과 대조하여 그 오차를 줄이는 데 실질적으로 사용되었다.
 
-\begin{figure}[h]
+\begin{figure}[!h]
 \centering
 \includegraphics[scale=0.20]{./fig/Figure_4.png}
 \caption{Energy Output for one of the 5 sites}
-\label{fig_2}
 \end{figure}
 
-다음으로, 수치적 기상 예측 데이터(Numerical Weather Prediction Data)이다. Meteomatics의 API로부터 5개 지역의 2~3년 동안의 다양한 기상학적 변수들을 6시간마다 기록한 값을 얻었다. 이 데이터는 ANN의 입력층 파라미터로 설정되어 모델을 구현하는데 기여하였다. 자세한 정보는 Talbe 1을 참조하라.
+다음으로, 수치적 기상 예측 데이터(Numerical Weather Prediction Data)이다. Meteomatics의 API로부터 5개 지역의 2, 3년 동안의 다양한 기상학적 변수들을 6시간마다 기록한 값을 얻었다. 이 데이터는 ANN의 입력층 파라미터로 설정되어 모델을 구현하는데 기여하였다. 자세한 정보는 Table 1을 참조하라.
 
 \begin{table}[h]
     \begin{tabular}{@{}|c|c|c|@{}}
@@ -130,7 +126,6 @@ f(v)=max[v,0]
 \subfigure[A cloudy day]{\includegraphics[width=0.45\textwidth]{./fig/Figure_5A.PNG}\hfill}
 \subfigure[A sunny day]{\includegraphics[width=0.45\textwidth]{./fig/Figure_5B.PNG}\hfill}
 \caption{Correlation between NWP Data and Energy output}
-\label{fig_3}
 \end{figure}
 
 Figure 5는 NWP 데이터 중 하나인 구름의 양(Total Cloud Cover)과 해당 조건에서의 서로 다른 두 태양광 PV 패널 사이의 발전량의 차이를 나타낸 그래프이다. 이처럼 Table 1의 다양한 변수를 파라미터로 하는 머신 러닝 모델을 구현함으로서 파라미터에 따른 예상 에너지 생산량을 최적화할 수 있다.
@@ -157,7 +152,6 @@ $Y_i$는 실제 데이터의 값을, $\hat{Y_i}$는 예측한 데이터의 값�
 \subfigure[All Models]{\includegraphics[width=0.45\textwidth]{./fig/Figure_6A.PNG}\hfill}
 \subfigure[Machine Learning Models]{\includegraphics[width=0.45\textwidth]{./fig/Figure_6B.PNG}\hfill}
 \caption{Site 5 RMSE}
-\label{fig_6}
 \end{figure}
 
 
@@ -168,7 +162,7 @@ $Y_i$는 실제 데이터의 값을, $\hat{Y_i}$는 예측한 데이터의 값�
 
 
 \section{References}
-Isaksson, E., & Karpe Conde, M. (2018). Solar Power Forecasting with Machine Learning Techniques (Dissertation). Retrieved from \url{http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-229065} \newline
+Isaksson, E., \& Karpe Conde, M. (2018). Solar Power Forecasting with Machine Learning Techniques (Dissertation). Retrieved from \url{http://urn.kb.se/resolve?urn=urn:nbn:se:kth:diva-229065} \newline
 김정원 (2019). 기상 예보를 이용한 머신러닝 알고리즘 기반 태양광 발전량 예측 기법. 한국정보기술학회논문지, 17(9), 83-89 \newline
 장봉규, 이성제 (2018). 머신러닝알고리즘을 이용한 신재생에너지 예측최적화 모델링 구현 및 검증에 관한 연구. 대한전자공학회 학술대회, 1477-1480
 
