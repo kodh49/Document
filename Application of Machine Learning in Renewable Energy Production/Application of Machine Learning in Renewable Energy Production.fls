@@ -201,6 +201,8 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb2.tfm
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_5.png
 INPUT ./fig/Figure_5.PNG
 INPUT ./fig/Figure_5.PNG
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc6.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb9.tfm
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -220,11 +222,13 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb9.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbba.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc9.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcc.pfb
