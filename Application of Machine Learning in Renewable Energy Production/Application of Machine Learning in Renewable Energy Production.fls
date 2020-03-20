@@ -57,6 +57,8 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg
+INPUT c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 OUTPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
@@ -213,6 +215,7 @@ INPUT ./fig/Figure_6A.PNG
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/./fig/Figure_6B.PNG
 INPUT ./fig/Figure_6B.PNG
 INPUT ./fig/Figure_6B.PNG
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmtt10.tfm
 INPUT e:/Github/Document/Application of Machine Learning in Renewable Energy Production/Application of Machine Learning in Renewable Energy Production.aux
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -225,6 +228,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbad.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb
