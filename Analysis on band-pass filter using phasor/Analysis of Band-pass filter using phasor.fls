@@ -55,6 +55,35 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/physics/physics.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/physics/physics.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3.sty
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/expl3-code.tex
+INPUT e:/Github/Document/Analysis on band-pass filter using phasor/nul
+INPUT e:/Github/Document/Analysis on band-pass filter using phasor/nul
+INPUT e:/Github/Document/Analysis on band-pass filter using phasor/nul
+INPUT e:/Github/Document/Analysis on band-pass filter using phasor/nul
+INPUT c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr10.tfm
+INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2019/texmf-dist/tex/generic/unicode-data/UnicodeData.txt
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3kernel/l3deprecation.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+INPUT c:/texlive/2019/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/subfigure/subfigure.cfg
@@ -72,7 +101,6 @@ INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT c:/texlive/2019/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd3.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmc7.tfm
@@ -192,27 +220,30 @@ INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmd2.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmbe.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbcd.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbae.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb1.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb3.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd5.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd1.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb4.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc5.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd1.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbac.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc2.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb2.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb6.tfm
 INPUT e:/Github/Document/Analysis on band-pass filter using phasor/./Linear Circuit System.png
 INPUT ./Linear Circuit System.png
 INPUT ./Linear Circuit System.png
 INPUT e:/Github/Document/Analysis on band-pass filter using phasor/./Frequency Response Function.png
 INPUT ./Frequency Response Function.png
 INPUT ./Frequency Response Function.png
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb4.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb3.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbc5.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd5.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbd1.tfm
+INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjmb1.tfm
+INPUT e:/Github/Document/Analysis on band-pass filter using phasor/./RLC Circuit.png
+INPUT ./RLC Circuit.png
+INPUT ./RLC Circuit.png
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbbb.tfm
 INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbb8.tfm
-INPUT c:/texlive/2019/texmf-dist/fonts/tfm/public/nanumtype1/nanummjbac.tfm
 INPUT e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.aux
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb
@@ -221,7 +252,8 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
-INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbac.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb
@@ -249,6 +281,7 @@ INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb
+INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb
 INPUT c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb
