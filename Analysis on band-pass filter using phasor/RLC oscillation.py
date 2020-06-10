@@ -1,23 +1,81 @@
 import numpy as np
-from math import *
 import matplotlib.pyplot as plt
+import matplotlib.transforms as transforms
 
 # variable definition
-L = 0.012
-C = 1.6
-R = 1.5
-w = sqrt((1/sqrt(L*C))**2-pow((R/2*L), 2))
+R_1 = 220
+R_2 = 100
+R_3 = 50
+L = 0.1
+C = 3.3e-7
+w_0 = 1/np.sqrt(L*C)
 
-# Function definition
-def getQ(L, C, R, w, t) :
-    Q = 100*exp(-R*t/(2*L))*cos(w*t)
-    return Q
+def H(w, R):
+    impedance = ((1/(L*C))-(w**2))
+    result = ((R/L)*w)/np.sqrt(((R/L)*w)**2+impedance**2)
+    return result
 
-# create list
-t = np.linspace(0, 100, 11)
-q = []
-for x in t:
-    q.append(getQ(L, C, R, w, x))
+def dB(x):
+    return 10*np.log(x)
 
-plt.plot(q, t)
-plt.show()
+print("Resonance at "+str(w_0))
+
+
+def FTF():
+    w = np.linspace(100, 10000, 100000) # Domain of a function
+    output = H(w, R_1)
+    plt.title("Filter Transfer Function")
+    plt.plot(w, output, label="H(ω)")
+    plt.legend(fontsize='medium')
+    plt.xlabel("ω")
+    plt.ylabel("Magnitude")
+    plt.axvline(x=w_0, color='r', linestyle='--', linewidth=1)
+    plt.show()
+
+
+def FTF_R():
+        w = np.linspace(100, 10000, 100000) # Domain of a function
+        output_1 = H(w, R_1)
+        output_2 = H(w, R_2)
+        output_3 = H(w, R_3)
+        plt.title("Filter Transfer Function")
+        plt.plot(w, output_1, label="220Ω")
+        plt.plot(w, output_2, label="100Ω")
+        plt.plot(w, output_3, label="50Ω")
+        plt.legend(fontsize='medium')
+        plt.xlabel("ω")
+        plt.ylabel("Magnitude")
+        plt.axvline(x=w_0, color='r', linestyle='--', linewidth=1)
+        plt.show()
+
+
+def ARF():
+    w = np.linspace(1000, 8000, 100000) # Domain of a function
+    output = dB(H(w, R_3))
+    plt.title("Amplitude Response Function")
+    plt.plot(w, output, label="A(ω)")
+    plt.legend(fontsize='medium')
+    plt.xlabel("ω")
+    plt.ylabel("Amplitude")
+    plt.axhline(y=-3, color='r', linestyle='--', linewidth=1)
+    plt.show()
+
+def ARF_R():
+        w = np.linspace(1000, 8000, 100000) # Domain of a function
+        output_1 = dB(H(w, R_1))
+        output_2 = dB(H(w, R_2))
+        output_3 = dB(H(w, R_3))
+        plt.title("Amplitude Response Function")
+        plt.plot(w, output_1, label="220Ω")
+        plt.plot(w, output_2, label="100Ω")
+        plt.plot(w, output_3, label="50Ω")
+        plt.legend(fontsize='medium')
+        plt.xlabel("ω")
+        plt.ylabel("Amplitude")
+        plt.axhline(y=-3, color='r', linestyle='--', linewidth=1)
+        plt.show()
+
+FTF()
+FTF_R()
+ARF()
+ARF_R()
