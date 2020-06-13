@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.3)  9 JUN 2020 22:34
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019/W32TeX) (preloaded format=pdflatex 2020.2.3)  11 JUN 2020 10:22
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -389,87 +389,165 @@ Package: subfigure 2002/03/15 v2.1.5 subfigure package
 ) (c:/texlive/2019/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+) (c:/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+ (c:/texlive/2019/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+ (c:/texlive/2019/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2019/11/07 v1.0c TeX engine tests
+))
+\Gm@cnth=\count268
+\Gm@cntv=\count269
+\c@Gm@tempcnt=\count270
+\Gm@bindingoffset=\dimen162
+\Gm@wd@mp=\dimen163
+\Gm@odd@mp=\dimen164
+\Gm@even@mp=\dimen165
+\Gm@layoutwidth=\dimen166
+\Gm@layoutheight=\dimen167
+\Gm@layouthoffset=\dimen168
+\Gm@layoutvoffset=\dimen169
+\Gm@dimlist=\toks24
 ) (e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.aux)
 \openout1 = `"Analysis of Band-pass filter using phasor.aux"'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
-LaTeX Font Info:    ... okay on input line 13.
-LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 13.
-LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 13.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 14.
+LaTeX Font Info:    ... okay on input line 14.
+LaTeX Font Info:    Checking defaults for LUC/nanummj/m/n on input line 14.
+LaTeX Font Info:    Trying to load font information for LUC+nanummj on input line 14.
  (c:/texlive/2019/texmf-dist/tex/latex/nanumtype1/lucnanummj.fd
 File: lucnanummj.fd 2013/02/12 v0.1 Nanum Myeongjo font definitions
 )
-LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    ... okay on input line 14.
  (c:/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count268
-\scratchdimen=\dimen162
+\scratchcounter=\count271
+\scratchdimen=\dimen170
 \scratchbox=\box48
-\nofMPsegments=\count269
-\nofMParguments=\count270
-\everyMPshowfont=\toks24
-\MPscratchCnt=\count271
-\MPscratchDim=\dimen163
-\MPnumerator=\count272
-\makeMPintoPDFobject=\count273
-\everyMPtoPDFconversion=\toks25
+\nofMPsegments=\count272
+\nofMParguments=\count273
+\everyMPshowfont=\toks25
+\MPscratchCnt=\count274
+\MPscratchDim=\dimen171
+\MPnumerator=\count275
+\makeMPintoPDFobject=\count276
+\everyMPtoPDFconversion=\toks26
 ) (c:/texlive/2019/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 485.
  (c:/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 ))
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
- (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(91.04881pt, 415.41025pt, 91.04881pt)
+* v-part:(T,H,B)=(71.13188pt, 702.78308pt, 71.13188pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=415.41025pt
+* \textheight=702.78308pt
+* \oddsidemargin=18.77882pt
+* \evensidemargin=18.77882pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=10.0pt
+* \footskip=30.0pt
+* \marginparwidth=65.0pt
+* \marginparsep=11.0pt
+* \columnsep=10.0pt
+* \skip\footins=9.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+LaTeX Font Info:    Trying to load font information for U+msa on input line 19.
+(c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 19.
  (c:/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
-{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2]
-<./Linear Circuit System.png, id=63, 426.393pt x 60.7068pt>
+{c:/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+<./Linear Circuit System.png, id=52, 426.393pt x 60.7068pt>
 File: ./Linear Circuit System.png Graphic file (type png)
 <use ./Linear Circuit System.png>
-Package pdftex.def Info: ./Linear Circuit System.png  used on input line 116.
+Package pdftex.def Info: ./Linear Circuit System.png  used on input line 110.
 (pdftex.def)             Requested size: 255.83777pt x 36.42435pt.
- [3 <./Linear Circuit System.png>]
-<./Frequency Response Function.png, id=73, 293.4162pt x 55.407pt>
+ [2]
+<./Frequency Response Function.png, id=67, 293.4162pt x 55.407pt>
 File: ./Frequency Response Function.png Graphic file (type png)
 <use ./Frequency Response Function.png>
-Package pdftex.def Info: ./Frequency Response Function.png  used on input line 124.
+Package pdftex.def Info: ./Frequency Response Function.png  used on input line 118.
 (pdftex.def)             Requested size: 176.05107pt x 33.24443pt.
- [4 <./Frequency Response Function.png>]
-<./RLC Circuit.png, id=84, 321.2pt x 180.675pt>
+<./RLC Circuit.png, id=68, 321.2pt x 180.675pt>
 File: ./RLC Circuit.png Graphic file (type png)
 <use ./RLC Circuit.png>
-Package pdftex.def Info: ./RLC Circuit.png  used on input line 152.
+Package pdftex.def Info: ./RLC Circuit.png  used on input line 146.
 (pdftex.def)             Requested size: 160.59961pt x 90.33727pt.
- [5 <./RLC Circuit.png>] [6] (e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.aux) ) 
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3 <./Linear Circuit System.png> <./Frequency Response Function.png>]
+<./FTF.png, id=81, 462.528pt x 346.896pt>
+File: ./FTF.png Graphic file (type png)
+<use ./FTF.png>
+Package pdftex.def Info: ./FTF.png  used on input line 175.
+(pdftex.def)             Requested size: 186.93333pt x 140.20097pt.
+<./FTF_R.png, id=83, 462.528pt x 346.896pt>
+File: ./FTF_R.png Graphic file (type png)
+<use ./FTF_R.png>
+Package pdftex.def Info: ./FTF_R.png  used on input line 176.
+(pdftex.def)             Requested size: 186.93333pt x 140.20097pt.
+ [4 <./RLC Circuit.png> <./FTF.png> <./FTF_R.png>]
+<./ARF.png, id=92, 462.528pt x 346.896pt>
+File: ./ARF.png Graphic file (type png)
+<use ./ARF.png>
+Package pdftex.def Info: ./ARF.png  used on input line 184.
+(pdftex.def)             Requested size: 186.93333pt x 140.20097pt.
+<./ARF_R.png, id=93, 462.528pt x 346.896pt>
+File: ./ARF_R.png Graphic file (type png)
+<use ./ARF_R.png>
+Package pdftex.def Info: ./ARF_R.png  used on input line 185.
+(pdftex.def)             Requested size: 186.93333pt x 140.20097pt.
+ [5 <./ARF.png> <./ARF_R.png>] (e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.aux) ) 
 Here is how much of TeX's memory you used:
- 13893 strings out of 492162
- 249527 string characters out of 6129063
- 293020 words of memory out of 5000000
- 18115 multiletter control sequences out of 15000+600000
- 567944 words of font info for 149 fonts, out of 8000000 for 9000
+ 14429 strings out of 492162
+ 257155 string characters out of 6129063
+ 311154 words of memory out of 5000000
+ 18637 multiletter control sequences out of 15000+600000
+ 567647 words of font info for 148 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 52i,7n,71p,1063b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
-<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmaf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
-Output written on "e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.pdf" (6 pages, 2552152 bytes).
+ 52i,7n,71p,1157b,319s stack positions out of 5000i,500n,10000p,200000b,80000s
+<c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmib10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjbd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmac.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmad.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmae.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmb9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmba.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbb.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmbe.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc7.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc8.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmc9.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcc.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcd.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmce.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmcf.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd0.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd1.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd2.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd3.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd4.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd5.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd6.pfb><c:/texlive/2019/texmf-dist/fonts/type1/public/nanumtype1/nanummjmd7.pfb>
+Output written on "e:/Github/Document/Analysis on band-pass filter using phasor/Analysis of Band-pass filter using phasor.pdf" (5 pages, 2696805 bytes).
 PDF statistics:
- 302 PDF objects out of 1000 (max. 8388607)
- 218 compressed objects within 3 object streams
+ 304 PDF objects out of 1000 (max. 8388607)
+ 214 compressed objects within 3 object streams
  0 named destinations out of 1000 (max. 500000)
- 16 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 36 words of extra memory for PDF output out of 10000 (max. 10000000)
 
