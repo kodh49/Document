@@ -25,7 +25,7 @@ def FTF():
     w = np.linspace(100, 10000, 100000) # Domain of a function
     output = H(w, R_1)
     plt.title("Filter Transfer Function")
-    plt.plot(w, output, label="H(ω)")
+    plt.plot(w, output, color='k', label="H(ω)")
     plt.legend(fontsize='medium')
     plt.xlabel("Angular Frequency (ω)")
     plt.ylabel("Magnitude")
@@ -35,9 +35,9 @@ def FTF():
 
 def FTF_R():
         w = np.linspace(100, 10000, 100000) # Domain of a function
-        output_1 = H(w, R_1)
+        output_1 = H(w, R_3)
         output_2 = H(w, R_2)
-        output_3 = H(w, R_3)
+        output_3 = H(w, R_1)
         plt.title("Filter Transfer Function")
         plt.plot(w, output_1, label="220Ω")
         plt.plot(w, output_2, label="100Ω")
@@ -51,9 +51,9 @@ def FTF_R():
 
 def ARF():
     w = np.linspace(1000, 8000, 100000) # Domain of a function
-    output = dB(H(w, R_3))
+    output = dB(H(w, R_1))
     plt.title("Amplitude Response Function")
-    plt.plot(w, output, label="A(ω)")
+    plt.plot(w, output, color='k', label="A(ω)")
     plt.legend(fontsize='medium')
     plt.xlabel("Angular Frequency (ω)")
     plt.ylabel("Amplitude (dB)")
@@ -62,9 +62,9 @@ def ARF():
 
 def ARF_R():
         w = np.linspace(1000, 8000, 100000) # Domain of a function
-        output_1 = dB(H(w, R_1))
+        output_1 = dB(H(w, R_3))
         output_2 = dB(H(w, R_2))
-        output_3 = dB(H(w, R_3))
+        output_3 = dB(H(w, R_1))
         plt.title("Amplitude Response Function")
         plt.plot(w, output_1, label="220Ω")
         plt.plot(w, output_2, label="100Ω")
